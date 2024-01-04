@@ -1,7 +1,8 @@
 
-###################################################
-## Multi-Level Regression Models on Imputed Data ##
-###################################################
+################################################### ##
+## Multi-Level Regression Models:                   ##
+## Investigate Potential Effect Modification by Sex ##
+######################################################
 
 #written by: Emma Gause 
 #Date: 12/15/22
